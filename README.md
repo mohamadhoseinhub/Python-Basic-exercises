@@ -29,20 +29,20 @@ I am currently learning Python fundamentals and practicing each topic step by st
 ### 5️⃣ Operators
 
 #### ➤ Arithmetic Operators
-- +
-- -
-- *
-- /
-- %
-- **
+- '+'
+- '-'
+- '*'
+- '/'
+- '%'
+- '**'
 
 #### ➤ Comparison Operators
-- ==
-- !=
-- >
-- <
-- >=
-- <=
+- '=='
+- '!='
+- '>'
+- '<'
+- '>='
+- '<='
 
 #### ➤ Logical Operators
 - and
@@ -50,9 +50,9 @@ I am currently learning Python fundamentals and practicing each topic step by st
 - not
 
 #### ➤ Assignment Operators
-- =
-- +=
-- -=
+- '='
+- '+='
+- '-='
 
 #### ➤ Identity Operators
 - is
