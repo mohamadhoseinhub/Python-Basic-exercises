@@ -10,9 +10,9 @@ print (x)
 
 # ساخت برنامه ای که شاخص توده بدنی کاربر را حساب کند 
 
-v = int (input('لطفا وزن خود را به کیلوگرم وارد کنید (مثلا 75) >>'))
+v = int (input('input your weight in kilogram (example 80) >>'))
 
-g =  float(input('لطفا قد خود را به متر وارد کنید (مثلا 1.7)'))
+g =  float(input('input your height in meter (example 1.8)'))
 
-print ('شاخص توده بدنی شما' , v / (g**2) , 'است')
+print ('your bmi is' , v / (g**2))
 
