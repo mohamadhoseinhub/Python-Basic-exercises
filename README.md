@@ -65,6 +65,9 @@ I am currently learning Python fundamentals and practicing each topic step by st
 ### 6️⃣ Input function
 - Getting input from the user
 
+### 7️⃣ Round function 
+- Rounding numbers
+
 ---
 
 ## 🎯 Goal
