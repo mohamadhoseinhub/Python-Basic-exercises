@@ -1,19 +1,19 @@
-# تابعی برای رند کردن اعداد
+# A function to round numbers
 
 x = 3.1561
 
-rn = round(x)   # خروجی میشود 3
+rn = round(x)   # Output is 3
 
-rn2 = round(x , 2)  # خروجی میشود 3.15
+rn2 = round(x , 2)  # Output is 3.15
 
-rn3 = round(x , 3)  # خروجی میشود 3.156
-
-
+rn3 = round(x , 3)  # Output is 3.156
 
 
-# این تابع کاربرد های زیادی دارد برای مثال
 
-'مثال'
+
+# This function has many uses
+
+'Example'
 
 i = float (input('pls input a number for shoaa circle >>'))
 
