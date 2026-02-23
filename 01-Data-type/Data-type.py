@@ -1,4 +1,4 @@
-# متغیر 
+# variables
 
 x = 6556
 
@@ -7,16 +7,16 @@ f = 'mdce'
 
 
 
-# نام های ممنوعه متغیر 
+# variable names rules
 
-'class' = 55  # کلمات رزرو شده 
+'class' = 55  # Reserved words
 
-'variable@' = 63 #  علامت های خاص مثل !@#$%^&*)(_+=) ممنوع هستند  
-
-
+'variable@' = 63 #  Special characters like (!@#$%^&*)(_+) are prohibited
 
 
-# تمارین نوع داده
+
+
+# data type exercises
 
 a = 5  # Integer
 
@@ -29,26 +29,26 @@ d = True , False  #Boolean
 
 
 
-# تابع تایپ برای تشخیص نوع داده و نمایش نتیجه آن به کمک تابع پرینت
+# Type function to find data types
 
 ty = 29
 
-print (type(x))  # تابع پرینت یک تابع برای چاپ روی صفحه نمایش
+print (type(x))  # print function for print text on the screen
 
 
 
 
-#  تبدیل نوع داده با استفاده از توابع آنها
+#  Convert data types using their function
 
-xi = 5  # نوع داده اینتیجر
+xi = 5  # data type : integer
 
-yf = 5.68  # نوع داده فلوات 
+yf = 5.68  # data type : float
 
-print (int(yf)) # تبدیل داده به اینتیجر 
+print (int(yf)) # convert data to integer
 
-print (float(xi))  # تبدیل داده به فلوات 
+print (float(xi))  # convert data to float
 
-print (str(xi))  # تبدیل داده  به استرینگ 
+print (str(xi))  # covert data to string
 
-print (bool(xi))  # تبدیل داده به بولین
+print (bool(xi))  # convert data to boolean
 
