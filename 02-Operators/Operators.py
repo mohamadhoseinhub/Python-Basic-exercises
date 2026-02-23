@@ -1,44 +1,44 @@
-# عملگر ها در پایتون 
+# Operators in python
 
-xplus = 15 + 6  # عملگر + برای جمع اعداد
+xplus = 15 + 6  # + operator for adding numbers
 
-xm = 14 - 6  # عملگر - برای تفریق اعداد
+xm = 14 - 6  # - operator for subtracting numbers
 
-xz = 2 * 8   # عملگر * برای ضرب اعداد
+xz = 2 * 8   # * operator for multiplying numbers
 
-xt = 8 / 2  # عملگر / برای تقسیم اعداد
+xt = 8 / 2  # / operator for dividing numbers
 
-xtkh = 12 // 2  # عملگر // برای دریافت خارج قسمت تقسیم
+xtkh = 12 // 2  # // operator for floored division
 
-xtb = 8 % 2  # عملگر % برای دریافت باقیمانده تقسیم
+xtb = 8 % 2  # % operator for modulus
 
-yt = 2** 3  # عملگر ** برای توان اعداد
-
-
-
-
-# عملگر های مقایسه در پایتون 
-
-'همیشه جواب آنها یک بولین است'
-
-b = 50 > 40  # عدد 50 بزرگتر از 40 است
-
-k = 78 < 100  # عدد 78 کوچک تر از 100 است
-
-bm = b >= 8  # بی بزرگتر و مساوی 8 است 
-
-km = b <= 7  # بی کوچک تر و مساوی 7 است
-
-m = b == k  # بی مساوی کا است 
-
-nm = b != k  # بی مساوی کا نیست
+yt = 2** 3  # ** operator for exponents
 
 
 
 
-# عملگر های منطقی 
+# Comparison operators
 
-'اگر هر دو درست باشد جواب درست است و در غیر اینصورت غلط است'
+'Their answer is always boolean'
+
+b = 50 > 40  # The number 50 is greater than 40
+
+k = 78 < 100  # The number 78 is smaller than 100
+
+bm = b >= 8  # b is greater than or equal to 8
+
+km = b <= 7  # b is smaller than or equal to 7
+
+m = b == k  # b is equal to k
+
+nm = b != k  # b is not equal to k
+
+
+
+
+# Logical operators
+
+'If both are true the answer is True otherwise is False'
 
 and_ = (b < m) and (m == k)  # and 
 
@@ -50,41 +50,41 @@ xl = (m > 3) or (4 > 6)  # or
 
 
 
-# عملگر های انتساب 
+# Assignment operators
 
-e = 8   # عملگر = برای انتساب مستقیم 
+e = 8   # = operator is for direct assignment 
 
-e += 59  # عملگر =+ برای جمع و انتساب
+e += 59  # += operator is for addition assignment
 
-e -= 65  # عملگر =- برای تفریق و انتساب
+e -= 65  # -= operator is for subtraction and assignment
 
-e *= 45  # عملگر =* برای ضرب و انتساب 
+e *= 45  # *= operator is for multiplication and assignment
 
-e /= 56  # عملگر =/ برای تقسیم و انتساب
+e /= 56  # /= operator is for division and assignment
 
-e //= 45  # عملگر =// برای تقسیم صحیح و انتساب
+e //= 45  # //= operator is for floored division and assignment
 
-e %= 2 # عملگر =% برای باقیمانده و انتساب
+e %= 2 # %= operator is for modulus and assignment
 
-e **= 5  # عملگر =** برای توان و انتساب
-
-
-
-
-# اپراتور های شناسایی
-
-sh = m is e  # برای بررسی اینکه آیا دو شی یکسان اند
-
-shn = m is not e  # برای بررسی اینکه آیا دو شی یکسان نیستند
+e **= 5  # ** operator is for exponents and assignment
 
 
 
 
-# اپراتور های عضویت
+# Identity operators
 
-oz = 5 in [7,8,9,5]  # برای بررسی عضویت
+sh = m is e  # To check if two objects are the same
 
-ozn = 4 [5,6,9,8]  # برای بررسی عدم عضویت
+shn = m is not e  # To check if two objects are not the same
+
+
+
+
+# Membership operators
+
+oz = 5 in [7,8,9,5]  # To check membership
+
+ozn = 4 [5,6,9,8]  # To check non membership
 
 
 
