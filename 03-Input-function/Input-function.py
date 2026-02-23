@@ -1,19 +1,19 @@
-# تابعی برای گرفتن ورودی از کاربر
+# A function to get input from the user
 
-'ورودی این تابع همیشه استرینگ است و برای استفاده باید به نوع داده مورد نظر تغییر بدیم'
+'The input to this function is always a string'
 
-x = input ('input a number')  # نمونه ای از گرفتن ورودی از کاربر
+x = input ('input a number')  # An example of using this function
 
 print (x)
 
 
 
 
-# این تابع کاربرد های زیادی دارد برای مثال نمونه ای از آن را ببینیم
+# This function has many uses
 
-'مثال'
+'Example'
 
-# ساخت برنامه ای که شاخص توده بدنی کاربر را حساب کند 
+# An app to calculate the user's BMI
 
 v = int (input('input your weight in kilogram (example 80) >>'))
 
