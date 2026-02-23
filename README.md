@@ -68,6 +68,18 @@ I am currently learning Python fundamentals and practicing each topic step by st
 ### 7️⃣ Round function 
 - Rounding numbers
 
+### 8️⃣ String indexing
+- access a member of a string
+- cut a part of the string and access it
+- cut from one section to the next
+- Negative index of strings
+- step for cutting
+- Step cut to reverse
+- Immutability of the string
+#### ➤ String arithmetic operators
+- *
+- +
+
 ---
 
 ## 🎯 Goal
