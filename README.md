@@ -76,6 +76,7 @@ I am currently learning Python fundamentals and practicing each topic step by st
 - step for cutting
 - Step cut to reverse
 - Immutability of the string
+
 #### ➤ String arithmetic operators
 - *
 - +
