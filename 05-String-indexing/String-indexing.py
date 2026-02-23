@@ -1,87 +1,87 @@
-# رشته ها اندیس دارند و با استفاده از آنها میتوان کار های مختلفی انجام داد 
+# String indexing
 
 s = 'Hello world' # H : 0 , e : 1 , l : 2 , ... , d : 10
 
 
 
 
-# برای دسترسی به عضوی از رشته :
+# To access a member of a string :
 
-t = s[4] # خروجی : 'o'
-
-
-
-
-# برای برش بخشی از رشته و دسترسی به آن :
-
-tb = s[4:8] # خروجی : 'o wo'    
+t = s[4] # Output : 'o'
 
 
 
 
-# برای برش از بخشی به بعد 
+# To cut a part of the string and access it :
 
-tba = s[4 : ] # خروجی : 'o world'
+tb = s[4:8] # Output : 'o wo'    
+
+
+
+
+# To cut from one section to the next
+
+tba = s[4 : ] # Output : 'o world'
 
 'or s [4 : 11]'
 
 
 
 
-# اندیس ها منفی هم دارند
+# Negative index of strings
 
 s2 = 'hello'  # o : -1 , l : -2 , ... , h :-5
 
 
 
 
-# برای برش گام هم وجود دارد
+# There is a step for cutting
 
 s3 = 'salam khobi ?' 
 
-tbg = s3[2 : 12 : 2] # خروجی : 'lmkoi'
+tbg = s3[2 : 12 : 2] # Output : 'lmkoi'
 
 
 
 
-# برش گام دار برای معکوس کردن 
+# Step cut to reverse
 
 s4 = 'mohamad' 
 
-sm = s4[ : :-1]  # خروجی : 'damahom'
+sm = s4[ : :-1]  # Output : 'damahom'
 
 
 
 
-# عملگر های حسابی رشته * و + است
+# The string arithmetic operators are * and + 
 
-'مثال برای جمع دو رشته'
+'Example for + '
 
 
 s5 = 'moha'
 
 s6 = 'mad ast'
 
-sj = s5 + s6[ : 3] # خروجی : 'mohamad'
+sj = s5 + s6[ : 3] # Output : 'mohamad'
 
 
 
-'مثال برای ضرب'
+'Example for * '
 
-'نکته : رشته فقط در یک عدد ضر میشود'
+'Note: String can only be multiplied by number'
 
 s7 = 'salam'
 
-sz = s7 * 3 # خروجی : 'salamsalamsalam'
+sz = s7 * 3 # Output : 'salamsalamsalam'
 
 
 
 
 
-# رشته نوع داده تغییر ناپذیر است
+# String is an immutable data type 
 
 s8 = 'ali akbar'
 
-s8[5] = 'm'  # خروجی ارور است 
+s8[5] = 'm'  # Output : error
 
 
