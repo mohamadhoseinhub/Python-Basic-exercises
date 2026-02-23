@@ -62,22 +62,22 @@ I am currently learning Python fundamentals and practicing each topic step by st
 - in
 - not in
 
-### 6️⃣ Input function
+### 6️⃣ Input Function
 - Getting input from the user
 
-### 7️⃣ Round function 
+### 7️⃣ Round Function 
 - Rounding numbers
 
-### 8️⃣ String indexing
-- access a member of a string
-- cut a part of the string and access it
-- cut from one section to the next
+### 8️⃣ String Indexing and Slicing
+- Accessing characters by index
+- Cut a part of the string and access it
+- Cut from one section to the next
 - Negative index of strings
-- step for cutting
-- Step cut to reverse
+- Step for cutting
+- Reversing a string using step
 - Immutability of the string
 
-#### ➤ String arithmetic operators
+#### ➤ String Arithmetic Operators
 - '*'
 - '+'
 
