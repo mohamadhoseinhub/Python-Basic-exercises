@@ -1,4 +1,4 @@
-# variables
+# Variables
 
 x = 6556
 
@@ -7,7 +7,7 @@ f = 'mdce'
 
 
 
-# variable names rules
+# Variable names rules
 
 'class' = 55  # Reserved words
 
@@ -16,7 +16,7 @@ f = 'mdce'
 
 
 
-# data type exercises
+# Data type exercises
 
 a = 5  # Integer
 
@@ -33,22 +33,22 @@ d = True , False  #Boolean
 
 ty = 29
 
-print (type(x))  # print function for print text on the screen
+print (type(x))  # Print function for print text on the screen
 
 
 
 
 #  Convert data types using their function
 
-xi = 5  # data type : integer
+xi = 5  # Data type : integer
 
-yf = 5.68  # data type : float
+yf = 5.68  # Data type : float
 
-print (int(yf)) # convert data to integer
+print (int(yf)) # Convert data to integer
 
-print (float(xi))  # convert data to float
+print (float(xi))  # Convert data to float
 
-print (str(xi))  # covert data to string
+print (str(xi))  # Covert data to string
 
-print (bool(xi))  # convert data to boolean
+print (bool(xi))  # Convert data to boolean
 
