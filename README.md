@@ -78,8 +78,8 @@ I am currently learning Python fundamentals and practicing each topic step by st
 - Immutability of the string
 
 #### ➤ String arithmetic operators
-- *
-- +
+- '*'
+- '+'
 
 ---
 
