@@ -70,10 +70,10 @@ I am currently learning Python fundamentals and practicing each topic step by st
 
 ### 8️⃣ String Indexing and Slicing
 - Accessing characters by index
-- Cut a part of the string and access it
-- Cut from one section to the next
-- Negative index of strings
-- Step for cutting
+- Slicing a part of a string
+- Using start and stop positions
+- Negative indexing
+- Using step in slicing
 - Reversing a string using step
 - Immutability of the string
 
