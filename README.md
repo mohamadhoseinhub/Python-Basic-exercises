@@ -62,6 +62,9 @@ I am currently learning Python fundamentals and practicing each topic step by st
 - in
 - not in
 
+### 6️⃣ Input function
+- Getting input from the user
+
 ---
 
 ## 🎯 Goal
