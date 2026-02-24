@@ -5,21 +5,21 @@ s = 'Hello world' # H : 0 , e : 1 , l : 2 , ... , d : 10
 
 
 
-# To access a member of a string :
+# To access a character of a string :
 
 t = s[4] # Output : 'o'
 
 
 
 
-# To cut a part of the string and access it :
+# To slice a part of a string and access it :
 
 tb = s[4:8] # Output : 'o wo'    
 
 
 
 
-# To cut from one section to the next
+# To slice from one section to the next
 
 tba = s[4 : ] # Output : 'o world'
 
