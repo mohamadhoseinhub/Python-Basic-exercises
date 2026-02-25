@@ -122,6 +122,11 @@ s1 = input('str 1 >>')
 s2 = input('str 2 >>')
 print (s1 + s2)
 
+# Get a word from the user and print the first letter of it
+
+word = input ('a word >>')
+print (word)
+
 
 
 
