@@ -87,6 +87,12 @@ print (xis * 10)
 xii = int(input ('a number'))
 print (xii * 10)
 
+# Get the ages of two people from the user and calculate the difference between their ages
+
+sen1 = int(input('sen 1 >>'))
+sen2 = int(input('sen 2 >>'))
+print ('The difference between their : ' , sen2 - sen1)
+
 
 
 
