@@ -84,6 +84,10 @@ Each topic includes examples and exercises to reinforce the concepts.
 
 ---
 
+## 🔁 After every few topics, I solve a set of exercises in a separate practice file to reinforce previously learned concepts.
+
+---
+
 ## 🎯 Goal
 Building strong fundamentals before moving to backend development.
 
