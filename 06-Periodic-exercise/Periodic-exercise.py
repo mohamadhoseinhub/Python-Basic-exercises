@@ -114,6 +114,14 @@ xro = float (input('input a number'))
 print (round(xro , 2)) 
 
 
+# --String indexing--
+
+# Get two strings from the user and concatenating them together
+
+s1 = input('str 1 >>')
+s2 = input('str 2 >>')
+print (s1 + s2)
+
 
 
 
