@@ -1,7 +1,8 @@
 # Basic Python Exercises 🐍
 
-This repository contains my Python learning journey.
-I am currently learning Python fundamentals and practicing each topic step by step.
+This repository documents my Python learning journey. 
+I practice the basics step-by-step, keeping my code clean and well-explained.
+Each topic includes examples and exercises to reinforce the concepts.
 
 ---
 
