@@ -143,6 +143,12 @@ print (word2[1])
 matn = "man dar hal yadgiri python hastam"
 print ( matn[13:15] + ' '+ matn[10] + matn[13] + matn [18:20] + ' ' + matn [22] + matn [25]+ 2 * matn [28] )
 
+# Write a program that cuts the text below and gives this output >> 'tsah n'
+'man dar hal yadgiri python hastam'
+
+matn2 = "man dar hal yadgiri python hastam"
+print (matn2 [-3 : -8 : -1])
+
 
 
 
