@@ -149,6 +149,13 @@ print ( matn[13:15] + ' '+ matn[10] + matn[13] + matn [18:20] + ' ' + matn [22] 
 matn2 = "man dar hal yadgiri python hastam"
 print (matn2 [-3 : -8 : -1])
 
+# Replace 'zahra' to 'ali akbar' in down text
+'Days are passing fast and Ali Akbar is still sitting'
+
+
+matn3 = 'Days are passing fast and Ali Akbar is still sitting'
+
+print (matn3[ : 25] , 'Zahra' , matn3[36 : ])
 
 
 
