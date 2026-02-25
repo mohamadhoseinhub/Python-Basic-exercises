@@ -106,6 +106,14 @@ print ('Perimeter is >>' , radius * 2 * 3.14 , 'and area is >>' , radius * radiu
 
 
 
+# --round function exercises--
+
+# A program for round number
+
+xro = float (input('input a number'))
+print (round(xro , 2)) 
+
+
 
 
 
