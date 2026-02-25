@@ -137,6 +137,12 @@ print (name[ : : -1])
 word2 = 'dfemk'
 print (word2[1])
 
+# Write a program that cuts the text below and gives this output >> 'ad lai tnaa'
+'man dar hal yadgiri python hastam'
+
+matn = "man dar hal yadgiri python hastam"
+print ( matn[13:15] + ' '+ matn[10] + matn[13] + matn [18:20] + ' ' + matn [22] + matn [25]+ 2 * matn [28] )
+
 
 
 
