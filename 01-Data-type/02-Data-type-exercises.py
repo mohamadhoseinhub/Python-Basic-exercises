@@ -26,6 +26,15 @@ xtint = 123
 
 print (type(xtint))
 
+# Type casting exercises
+
+intdata = 56 
+floatdata = 25.33
+
+print (int (floatdata))
+print (float(intdata))
+print (bool (intdata))
+
 
 
 
