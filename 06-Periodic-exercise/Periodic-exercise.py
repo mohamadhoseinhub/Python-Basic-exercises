@@ -63,6 +63,22 @@ print (t)
 '''
 
 
+# --Type conversion exercises--
+
+a_2 = 2  # >> float
+print (float (a_2))
+
+b_2 = 2.4 # >> int 
+print (int (b_2))
+
+c_s = '1.2' # >> float 
+print (float(c_s))
+
+e_t = True # >> int
+print (int(e_t))
+
+
+
 
 
 
