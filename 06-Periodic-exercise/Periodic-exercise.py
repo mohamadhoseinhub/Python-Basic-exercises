@@ -79,6 +79,14 @@ print (int(e_t))
 
 
 
+# --input function exercises--
+
+xis = input('input a word')
+print (xis * 10)
+
+xii = int(input ('a number'))
+print (xii * 10)
+
 
 
 
