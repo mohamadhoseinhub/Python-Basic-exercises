@@ -93,6 +93,12 @@ sen1 = int(input('sen 1 >>'))
 sen2 = int(input('sen 2 >>'))
 print ('The difference between their : ' , sen2 - sen1)
 
+# Get two numbers from the user and adding them
+
+adad1 = int (input('adad 1 >>'))
+adad2 = int (input('adad 2 >>'))
+jadad = print ('The sum of these two numbers is' , adad1 + adad2)
+
 
 
 
