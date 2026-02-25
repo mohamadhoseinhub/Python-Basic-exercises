@@ -132,6 +132,11 @@ print (word)
 name = input('input your name >>')
 print (name[ : : -1])
 
+# Print the second letter of word
+
+word2 = 'dfemk'
+print (word2[1])
+
 
 
 
