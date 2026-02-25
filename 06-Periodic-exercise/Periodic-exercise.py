@@ -99,6 +99,13 @@ adad1 = int (input('adad 1 >>'))
 adad2 = int (input('adad 2 >>'))
 jadad = print ('The sum of these two numbers is' , adad1 + adad2)
 
+# Get a radius from the user and calculating the perimeter and area
+
+radius = float (input('Input a radius >>'))
+print ('Perimeter is >>' , radius * 2 * 3.14 , 'and area is >>' , radius * radius * 3.14)
+
+
+
 
 
 
