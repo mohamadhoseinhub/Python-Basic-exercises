@@ -127,6 +127,11 @@ print (s1 + s2)
 word = input ('a word >>')
 print (word)
 
+# Get name of user and print it in reverse
+
+name = input('input your name >>')
+print (name[ : : -1])
+
 
 
 
