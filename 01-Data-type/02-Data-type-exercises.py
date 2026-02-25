@@ -20,6 +20,12 @@ p = shoaa * 2 * 3.14
 a = shoaa * shoaa * 3.14
 print (p)
 
+# Type function exercises
+
+xtint = 123
+
+print (type(xtint))
+
 
 
 
